@@ -1,2 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "\"(Ôo)'"
+=======
+>>>>>>> 390a0d1 (Add shell redirection scripts)
