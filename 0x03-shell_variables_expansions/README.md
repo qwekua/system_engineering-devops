@@ -1,3 +1,7 @@
-# Shell, init files, variables and expansions
+# 0x03. Shell, init files, variables and expansions
 
-This project is about Shell variables, environment, and expansions.
+This project covers:
+- Shell initialization files
+- Shell variables (local and global)
+- Expansions (arithmetic, variable, etc)
+- Aliases and more.
