@@ -1,0 +1,11 @@
+total 40
+-rw-r--r-- 1 codespace codespace   12 Jul  7 16:14 *'"Best School"'\*$\?\*\*\*\*\*\:\)
+drwxr-sr-x 6 codespace codespace 4096 Jul  7 16:15 .
+drwxrwsr-x 1 codespace codespace 4096 Jul  5 16:13 ..
+drwxr-sr-x 7 codespace codespace 4096 Jul  7 16:14 .git
+drwxr-sr-x 2 codespace codespace 4096 Jul  3 16:32 0x00-shell_basics
+drwxr-sr-x 2 codespace codespace 4096 Jul  3 16:32 0x01-shell_permissions
+drwxr-sr-x 2 codespace codespace 4096 Jul  7 16:15 0x02-shell_redirections
+-rw-r--r-- 1 codespace codespace   30 Jul  3 16:32 README.md
+-rw-r--r-- 1 codespace codespace   28 Jul  7 16:09 iacta
+-rw-r--r-- 1 codespace codespace    0 Jul  7 16:16 ls_cwd_content
